@@ -1,4 +1,4 @@
-# Git Cheat Sheet — From Beginner to Expert
+# Git Cheat Sheet
 
 ---
 
